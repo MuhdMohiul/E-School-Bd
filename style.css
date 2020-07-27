@@ -1,0 +1,266 @@
+body{
+position: absolute;
+width: 1440px;
+height: 576px;
+left: 225px;
+top: 10px;
+background: #F0FFF0;
+}
+header {
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    padding: 30px 10%;
+    background: transparent !important;
+}
+
+#brand-image{
+height: 59px;
+left: 212px;
+top: 30px;
+margin: auto;
+cursor: pointer;
+margin-right: 130px;
+
+}
+#Signin{  
+    align-self: center;
+    align-items: center;
+    justify-content:space-between;
+    margin: 10px 0px;
+    margin-left: 25px;
+    margin-right: 130px;
+    width: 104px;
+    height: 43px;
+    background: #21B573;
+    position: absolute;
+    border-radius: 33px;
+    font-size: 16px;
+    line-height: 19px;
+    top: 15px;
+    color: #FFFFFF;
+    order: 0;
+    flex: none;
+   }
+li,a{
+    font-size: 25px;
+    margin-right: 25px;
+    color: black;
+}
+.half-width{
+    width: 50%;
+    float:left;
+    margin-left: 0%;
+    padding-left: 0%;
+    }
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 650px;
+    padding-bottom: 10px;
+    padding-top: 100px;
+}
+.link-bitton {
+    flex-direction: row;
+    padding: 12px 36px;
+    text-decoration: none;
+    background-color:#21B573;
+    margin-top: px;
+    border-radius: 33px;
+    color: white; 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    
+} 
+.name-type {
+    color: #21B573;
+}
+p{
+    margin-bottom: px;
+    color: #6C6B6B;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+h5{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+h1{
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
+}
+.card-img-top{
+width: 66px;
+height: 85px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    align-items: center;
+    padding-top: 54px;
+    background: #F8FFFB;
+    border-radius: 10px;
+    width: 270px;
+    height: 270px;
+}
+.card-title{
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+align-items: center;
+align-self: center;
+
+}
+.card-text {
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+align-items: center;
+align-self: center;
+}
+.card-1 {
+width: 370px;
+height: 483px;
+border: none;
+box-shadow: 5px 5px 10px lightgray;
+align-items: center;
+padding-top: 24px;
+background: #F8FFFB;
+border-radius: 10px;
+
+}
+.card-img-top-1{
+width: 331px;
+height: 234px;
+border-radius: 11px;
+background: #FFFFFF;;
+align-items: center;
+align-self: center;
+padding-top: 20px;
+padding-left: 19px;
+padding-right: 20px;
+}
+.online{
+    padding: 98px;
+    padding-bottom: 62px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+
+}
+.buy-course{
+width: 137px;
+height: 35px;
+left: 158px;
+top: 1461px;
+background:  #21B573;
+border-radius: 33px;
+}
+.half-width-1{
+    width: 35%;
+    float:left;
+    margin-left: 0%;
+    padding-left: 0%;
+    }
+.half-width-2{
+        width: 50%;
+        float:left;
+        margin-left: 0%;
+        padding-left: 0%;
+        }
+.half-width-1 img {
+    width: 35%;
+    margin-left: 0%
+    padding-left: 10%
+    width: 25%
+    float:left
+    margin-right: %
+    padding-left: 2%
+    padding-right: 2%
+    padding-bottom: 0%
+    
+}
+.Testimonial-1{
+    padding: 86px;
+    padding-bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+}
+.text-muted{
+   margin-left: auto;
+   margin-top: 30px;
+  
+}
+.text{
+    font-size: 18px;
+    line-height: 30px;
+    color: #000000;
+}
+.footer{
+    width: 100%;
+    background: #282531;
+    display: block;
+}
+.inner-footer{
+    width: 90%;
+    margin: auto;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+    color: #FFFFFF;
+}
+.footer-items{
+    width: 25%;
+    padding: 10px 20px;
+    box-sizing: border-box
+    font-weight: bold;
+    font-size: 19px;
+    line-height: 25px;
+    color:#FFFFFF ;
+}
+.footer-bottom-text{
+    text-align: center;
+    background: #282531;
+    line-height: 75px;
+    
+}
+.school{
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+h1{
+    padding: 10px 0;
+    color: white;
+    font-size: 16px;
+    line-height: 30px;
+}
+.border{
+font-weight: bold;
+font-size: 16px;
+line-height: 30px;
+color: #FFFFFF;
+}

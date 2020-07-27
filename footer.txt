@@ -1,0 +1,132 @@
+<div class="footer-top">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-6 col-xs-12 segment-one"></div> 
+      <p class="school"> Millions of people of all ages and from around the world are improving their lives with us </p> 
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-12 segment-two"></div> 
+      <h2> Courses </h2> 
+      <ul>
+        <li><a href="">Grafics Design</a></li>
+        <li><a href="">Web Design</a></li>
+        <li><a href="">Business</a></li>
+        <li><a href="">Marketting</a></li>
+        <li><a href="">Engineering</a></li>
+      </ul>
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-12 segment-three"></div>
+    <h2> Terms</h2>
+    <ul>
+      <li><a href="">Grafics Design</a></li>
+      <li><a href="">Web Design</a></li>
+      <li><a href="">Business</a></li>
+      <li><a href="">Marketting</a></li>
+      <li><a href="">Engineering</a></li>
+    </ul>
+  </div>
+  <div class="col-md-3 col-sm-6 col-xs-12 segment-four">
+    <h2>Useful Link</h2>
+    <ul>
+      <li><a href="">Grafics Design</a></li>
+      <li><a href="">Web Design</a></li>
+      <li><a href="">Business</a></li>
+      <li><a href="">Marketting</a></li>
+      <li><a href="">Engineering</a></li>
+    </ul>
+  </div>
+</div>
+<p class="footer-bottom-text">
+  All Right Reserved by Mohiul Islam 
+</p>
+
+.segment-one h3{
+    font-family: courgette;
+    color: white;
+    letter-spacing: 3px;
+    margin:10px 0;
+}
+.segment-two h2{
+    font-family: poppins;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin:10px 0;
+}
+.segment-one h2:before{
+    content:"|";
+    color: #c65039 ;
+    padding-right: 10px;
+}
+.segment-two ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-two li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.segment-two ul li{
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    line-height: 40px;
+}
+.segment-two ul li a{
+    color: #999;
+    text-decoration: none;
+}
+.segment-three h2{
+    color: #FFF;
+    font-family: poppins;
+    text-transform: uppercase;
+}
+.segment-three h2:before{
+    content:"|";
+    color: #c65039 ;
+    padding-right: 10px;
+}
+.segment-three a{
+    background: #494849;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+.segment-three a i{
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 12px;
+}
+.segment-four h2{
+    color: #fff;
+    font-family: Poppins;
+    text-transform: uppercase;
+}
+.segment-four h2:before{
+    content:"|";
+    color: #c65039 ;
+    padding-right: 10px;
+}
+.segment-five h2{
+    color: #fff;
+    font-family: Poppins;
+    text-transform: uppercase;
+}
+.segment-five h2:before{
+    content:"|";
+    color: #c65039 ;
+    padding-right: 10px;
+}
+.segment-five a i{
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 12px;
+}
+.segment-five a{
+    background: #494849;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+

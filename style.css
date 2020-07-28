@@ -204,7 +204,7 @@ border-radius: 33px;
     text-align: center;
     font-weight: bold;
     font-size: 36px;
-    line-height: 54px;
+    line-height: 56px;
     color: #000000;
 }
 .text-muted{
@@ -217,13 +217,13 @@ border-radius: 33px;
     line-height: 30px;
     color: #000000;
 }
-.footer{
-    width: 100%;
-    background: #282531;
-    display: block;
+
+footer a {
+    color: #FFFFFF;
 }
-.inner-footer{
-    width: 90%;
+
+.row{
+    width: 95%;
     margin: auto;
     padding: 30px 10px;
     display: flex;
@@ -231,36 +231,4 @@ border-radius: 33px;
     box-sizing: border-box;
     justify-content: center;
     color: #FFFFFF;
-}
-.footer-items{
-    width: 25%;
-    padding: 10px 20px;
-    box-sizing: border-box
-    font-weight: bold;
-    font-size: 19px;
-    line-height: 25px;
-    color:#FFFFFF ;
-}
-.footer-bottom-text{
-    text-align: center;
-    background: #282531;
-    line-height: 75px;
-    
-}
-.school{
-    font-size: 16px;
-    line-height: 30px;
-    color: #FFFFFF;
-}
-h1{
-    padding: 10px 0;
-    color: white;
-    font-size: 16px;
-    line-height: 30px;
-}
-.border{
-font-weight: bold;
-font-size: 16px;
-line-height: 30px;
-color: #FFFFFF;
 }

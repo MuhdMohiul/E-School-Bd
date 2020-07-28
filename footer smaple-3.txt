@@ -1,0 +1,56 @@
+<footer class="page-footer bg-dark">
+  <div class="bg-success">
+    <div class="container">
+      <div class="col-md-4 d-flex alin-items-center">
+        <div class="col-md-12 text-center">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container text-center text-md-left mt=5">
+    <div class="row">
+      <div class="col-md-3- mx-auto- md-4">
+        <h6 class="text-uppercase font-weight-bold"> About Us</h6>
+        <hr class="bg-success md-4 mt-0 d-inline-block mx-auto" style="width: 126px; height: 2px;">
+        <p class="mt-2"> Millions of people of all ages and from around the world are improving their lives with us</p>
+      </div>
+      <div class="col-md-2- mx-auto- md-4">
+        <h6 class="text-uppercase font-weight-bold">Courses</h6>
+        <hr class="bg-success md-4 mt-0 d-inline-block mx-auto" style="width: 85px; height: 2px;">
+       <ul class="List-unstyled">
+         <li class="my-2"> <a href="#">Grafics Design</a></li>
+         <li class="my-2"> <a href="#">Web Design</a></li>
+         <li class="my-2"> <a href="#">Business</a></li>
+         <li class="my-2"> <a href="#">Marketting</a></li>
+         <li class="my-2"> <a href="#">Engineering</a></li>
+       </ul>
+    </div>
+    <div class="col-md-2- mx-auto- md-4">
+      <h6 class="text-uppercase font-weight-bold">Terms</h6>
+      <hr class="bg-success md-4 mt-0 d-inline-block mx-auto" style="width: 110px; height: 2px;">
+      <ul class="List-unstyled">
+        <li class="my-2"> <a href="#">Grafics Design</a></li>
+        <li class="my-2"> <a href="#">Web Design</a></li>
+        <li class="my-2"> <a href="#">Business</a></li>
+        <li class="my-2"> <a href="#">Marketting</a></li>
+        <li class="my-2"> <a href="#">Engineering</a></li>
+      </ul>
+    </div>
+    <div class="col-md-3- mx-auto- md-4">
+      <h6 class="text-uppercase font-weight-bold">Useful Link</h6>
+      <hr class="bg-success md-4 mt-0 d-inline-block mx-auto" style="width: 75px; height: 2px;">
+      <ul class="List-unstyled">
+        <li class="my-2"> <a href="#">Grafics Design</a></li>
+        <li class="my-2"> <a href="#">Web Design</a></li>
+        <li class="my-2"> <a href="#">Business</a></li>
+        <li class="my-2"> <a href="#">Marketting</a></li>
+        <li class="my-2"> <a href="#">Engineering</a></li>
+      </ul>
+    </div>
+  </div>
+   <div class="footer-copyright text-center py-3">
+   <p>&copy; Copyright All Right Reserved by Mohiul Islam
+     <a href="#"> mohiul.com</a></p>
+     <p>Designed by Mohiul </p>
+  </p>
+</div> >

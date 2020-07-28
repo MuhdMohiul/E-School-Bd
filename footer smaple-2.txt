@@ -1,0 +1,43 @@
+<footer>
+<div class="footer">
+  <div class="inner-footer">
+    <div class="footer-items">
+      <p class="footer-text-1"> Millions of people of all ages and from around the world are improving their lives with us</p>
+    </div>
+    <div class="footer-items">
+      <h2> Courses </h2>
+        <div class="border"></div>
+        <ul>
+          <a href=""> <li>Grafics Design</li></a>
+          <a href=""> <li>Web Design</li></a>
+          <a href=""> <li>Business</li></a>
+          <a href=""> <li>Marketting</li></a>
+          <a href=""> <li>Engineering</li></a>
+        </ul>
+    </div>
+    <div class="footer-items">
+      <h2> Terms </h2>
+        <div class="border"></div>
+        <ul>
+          <a href=""> <li>Grafics Design</li></a>
+          <a href=""> <li>Web Design</li></a>
+          <a href=""> <li>Business</li></a>
+          <a href=""> <li>Marketting</li></a>
+          <a href=""> <li>Engineering</li></a>
+        </ul>
+  </div>
+  <div class="footer-items">
+    <h2> Useful Link </h2>
+      <div class="border"></div>
+      <ul>
+        <a href=""> <li>Grafics Design</li></a>
+          <a href=""> <li>Web Design</li></a>
+          <a href=""> <li>Business</li></a>
+          <a href=""> <li>Marketting</li></a>
+          <a href=""> <li>Engineering</li></a>
+      </ul>
+</div>
+<p class="footer-bottom-text">
+  Copyright &copy; All Right Reserved by Mohiul Islam 
+</p>
+</footer>
